@@ -23,8 +23,9 @@ public:
       head = next;
     }
 
-    return prev;
+    return head;
 
+    
   }
 
 };
