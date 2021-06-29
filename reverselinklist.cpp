@@ -23,7 +23,7 @@ public:
       head = next;
     }
 
-    return head;
+    return prev;
 
     
   }
